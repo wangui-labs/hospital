@@ -133,6 +133,7 @@ npm start
 ```
 
 The application will open at `http://localhost:3000`
+<img width="1905" height="943" alt="image" src="https://github.com/user-attachments/assets/b4ca6907-6b4c-4b49-b331-dddc5506dd7f" />
 
 ### 6. Access the Application
 
@@ -150,6 +151,13 @@ The application will open at `http://localhost:3000`
 | admin | admin | Administrator | Full access |
 | user | user | Doctor | Limited access |
 | system | system | System Account | Employee linking |
+<img width="1913" height="946" alt="image" src="https://github.com/user-attachments/assets/d2c3cbd1-2cdf-4f4a-a92f-fef8cd4a1a2e" />
+<img width="1905" height="950" alt="image" src="https://github.com/user-attachments/assets/6d9638c2-2424-430c-a5ac-2deb5cabd9ad" />
+
+<img width="1011" height="756" alt="image" src="https://github.com/user-attachments/assets/e5beb129-2629-4eeb-bc65-98e0ca562e5f" />
+<img width="1908" height="757" alt="image" src="https://github.com/user-attachments/assets/c8915386-fd17-4d91-9127-aa2100ad96a9" />
+<img width="952" height="877" alt="image" src="https://github.com/user-attachments/assets/1ec27138-59cd-498a-8781-a62c55c2339e" />
+
 
 ## 📁 Project Structure
 
