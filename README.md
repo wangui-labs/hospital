@@ -327,18 +327,7 @@ uvicorn main:app --reload
 - [ ] Docker containerization
 - [ ] CI/CD pipeline with GitHub Actions
 
----
+
 
 **Made with ❤️ by Paul Wangui**
-```
 
-This README includes:
-- Complete setup instructions for Windows, macOS, and Linux
-- Project structure visualization
-- API endpoint reference
-- Troubleshooting guide
-- Default credentials
-- Technology stack details
-- Roadmap for future features
-
-Save this as `README.md` in your project root and commit it to your repository!
